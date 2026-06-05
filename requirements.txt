@@ -1,0 +1,5 @@
+numpy
+pyserial
+pyaudio
+pyusb
+pyroomacoustics

@@ -83,7 +83,7 @@ A PC or laptop is also used for test control, TCP communication checks, and audi
 Python packages used by the scripts:
 
 ```bash
-pip install numpy pyserial pyaudio pyusb pyroomacoustics
+pip install -r requirements.txt
 ```
 
 Depending on your operating system, `pyaudio` may require PortAudio development headers before installation.
